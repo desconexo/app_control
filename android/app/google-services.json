@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "265215254616",
+    "firebase_url": "https://appcontrol-6d0d1.firebaseio.com",
+    "project_id": "appcontrol-6d0d1",
+    "storage_bucket": "appcontrol-6d0d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265215254616:android:c82127d12b333f9b",
+        "android_client_info": {
+          "package_name": "com.example.app_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265215254616-a4hsoqn9f92nsrpqtsnf7isp50fehd44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhAwAJz5bJ-d215N2RAlA0pgWdRoHu8ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
